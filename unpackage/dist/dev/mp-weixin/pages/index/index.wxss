@@ -1,34 +1,7 @@
 
-.main_top.data-v-57280228{
+.main_top.data-v-57280228 {
 	width: 100vh;
 	height: 260rpx;
 	background-color: black;
-}
-.main_content.data-v-57280228{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-.content.data-v-57280228{
-	margin-top: 20rpx;
-	width: 700rpx;
-	height: 260rpx;
-	background-color: #007AFF;
-	border-radius: 40rpx;
-	display: flex;
-}
-.content_left.data-v-57280228{
-	flex: 1;
-	font-size: 50rpx;
-	position: relative;
-	left:70rpx;
-	margin-top: 80rpx;
-}
-.content_right.data-v-57280228{
-	flex:1;
-	position: relative;
-	font-size: 30rpx;
-	margin-top: 80rpx;
-	margin-left:70rpx;
 }
 

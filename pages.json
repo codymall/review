@@ -28,15 +28,6 @@
 			}
 
 		}
-	    ,{
-            "path" : "utils/utils",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
-            }
-            
-        }
     ],
 	"tabBar": {
 		"list": [{

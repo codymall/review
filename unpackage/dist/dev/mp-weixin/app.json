@@ -3,8 +3,7 @@
     "pages/index/index",
     "pages/combat/combat",
     "pages/wisdom/wisdom",
-    "pages/mine/mine",
-    "utils/utils"
+    "pages/mine/mine"
   ],
   "subPackages": [],
   "window": {

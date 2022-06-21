@@ -1,0 +1,1 @@
+<content vue-id="66af3254-1" bind:__l="__l" vue-slots="{{['left','right_top','right_bottom']}}"><view slot="left">真题讲解</view><view slot="right_top">知识要点习题精讲</view><view slot="right_bottom">模拟试题详细解析</view></content>

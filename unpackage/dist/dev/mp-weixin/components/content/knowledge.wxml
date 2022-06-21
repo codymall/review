@@ -1,0 +1,1 @@
+<content vue-id="314c542e-1" bind:__l="__l" vue-slots="{{['left','right_top','right_bottom']}}"><view slot="left">知识详解</view><view slot="right_top">遵循大纲突出重点</view><view slot="right_bottom">知识梳理全面直观</view></content>
